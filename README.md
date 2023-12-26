@@ -38,16 +38,17 @@ docker logs unifi-controller
 [cont-init.d] 10-adduser: executing... 
 usermod: no changes
 
--------------------------------------
-          _         ()
-         | |  ___   _    __
-         | | / __| | |  /  \
-         | | \__ \ | | | () |
-         |_| |___/ |_|  \__/
+───────────────────────────────────────
 
+      ██╗     ███████╗██╗ ██████╗
+      ██║     ██╔════╝██║██╔═══██╗
+      ██║     ███████╗██║██║   ██║
+      ██║     ╚════██║██║██║   ██║
+      ███████╗███████║██║╚██████╔╝
+      ╚══════╝╚══════╝╚═╝ ╚═════╝
 
-Brought to you by linuxserver.io
--------------------------------------
+   Brought to you by linuxserver.io
+───────────────────────────────────────
 
 To support LSIO projects visit:
 https://www.linuxserver.io/donate/
