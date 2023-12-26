@@ -17,7 +17,7 @@ docker-unifi_controller
 - Service docker running
 
 ### Install 
-`git clone https://github.com/source-git.git`
+`git clone https://github.com/JLalib/docker-unifi_controller.git`
 
 ### Deploy
 ```
