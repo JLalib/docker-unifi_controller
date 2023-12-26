@@ -1,6 +1,5 @@
 # docker-unifi_controller
-docker-unifi_controller
-----
+
 [![unifi](https://badgen.net/badge/UniFi/8.0.7-ls218?list=|&icon=https://docs.golift.io/svg/ubiquiti_color.svg&color=0099ee "UniFi Products Supported")](https://www.ui.com/download/unifi/)
 
 <p align="center">
