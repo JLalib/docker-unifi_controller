@@ -3,7 +3,7 @@
 [![unifi](https://badgen.net/badge/UniFi/8.0.7-ls218?list=|&icon=https://docs.golift.io/svg/ubiquiti_color.svg&color=0099ee "UniFi Products Supported")](https://www.ui.com/download/unifi/)
 
 <p align="center">
-  <img src="https://github.com/JLalib/docker-unifi_controller/blob/main/unifi1.png"
+  <img src="https://github.com/JLalib/docker-unifi_controller/blob/main/unifi.png"
        width="700"/>
 </p>
 
