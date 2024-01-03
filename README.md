@@ -17,7 +17,7 @@
 
 ### Deploy
 ```
-cd UnifiDocker
+cd docker-unifi_controller/
 docker-compose up -d
 ```
 The first one to be deployed, you have to download the image and the Unifi package, you can monitor it from the logs command, wait at least 5 minutes (depending on the computer where you deploy it) before loading the web.
